@@ -1,0 +1,10 @@
+mdnp - Markdown Notepad
+
+ A (as much as we can make it) serverless client app for writing notes in
+   markdown.
+
+  -Previously, ive been writing my notes in scintella/notepad but get
+    frustrated with restarting or otherwise losing my session and my notes all
+    disappear. mdnp will solve this by updating whatever you type into it every
+    5 seconds. (maybe adjustable?) the backend storage will be some type of 
+    cheap json storage service (jsonbin.io?).
